@@ -1,6 +1,7 @@
-# flutter_parallax
+# flutter_Protego
 
 A new Flutter application.
+The Protego app was made with the virtue of providing a easy and cost efficient personal security app whic would provide you the safest locations in a locality.
 
 ## Getting Started
 
