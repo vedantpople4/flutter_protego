@@ -1,7 +1,7 @@
 # flutter_Protego
 
 A new Flutter application.
-The Protego app was made with the virtue of providing a easy and cost efficient personal security app which would provide you the safest locations in a locality. We had datasets from all the states of India which included various crimes like murder, half murders, chain snatching and implemented KNN and 
+The Protego app was made with the virtue of providing a easy and cost efficient personal security app which would provide you the safest locations in a locality. We had datasets from all the states of India which included various crimes like murder, half murders, chain snatching and implemented KNN and Random Forest Algorithms to get the output.
 
 ## Getting Started
 
